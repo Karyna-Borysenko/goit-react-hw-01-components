@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Karyna-Borysenko/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Karyna-Borysenko/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Karyna-Borysenko/goit-react-hw-01-components/static/css/main.806cd7b4.css",
+    "main.js": "/Karyna-Borysenko/goit-react-hw-01-components/static/js/main.3b93d139.js",
     "index.html": "/Karyna-Borysenko/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Karyna-Borysenko/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Karyna-Borysenko/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.806cd7b4.css.map": "/Karyna-Borysenko/goit-react-hw-01-components/static/css/main.806cd7b4.css.map",
+    "main.3b93d139.js.map": "/Karyna-Borysenko/goit-react-hw-01-components/static/js/main.3b93d139.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.806cd7b4.css",
+    "static/js/main.3b93d139.js"
   ]
 }
