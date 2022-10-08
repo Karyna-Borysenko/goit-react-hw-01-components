@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Karyna-Borysenko/goit-react-hw-01-components/static/css/main.806cd7b4.css",
-    "main.js": "/Karyna-Borysenko/goit-react-hw-01-components/static/js/main.3b93d139.js",
-    "index.html": "/Karyna-Borysenko/goit-react-hw-01-components/index.html",
-    "main.806cd7b4.css.map": "/Karyna-Borysenko/goit-react-hw-01-components/static/css/main.806cd7b4.css.map",
-    "main.3b93d139.js.map": "/Karyna-Borysenko/goit-react-hw-01-components/static/js/main.3b93d139.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.806cd7b4.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.3b93d139.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.806cd7b4.css.map": "/goit-react-hw-01-components/static/css/main.806cd7b4.css.map",
+    "main.3b93d139.js.map": "/goit-react-hw-01-components/static/js/main.3b93d139.js.map"
   },
   "entrypoints": [
     "static/css/main.806cd7b4.css",
