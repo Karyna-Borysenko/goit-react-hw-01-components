@@ -12,7 +12,7 @@ import {
 export const Statistics = ({ title, statistics }) => {
   return (
     <Container>
-      <Title>{title}</Title>
+      {title && <Title>{title}</Title>}
 
       <StatisticsList>
         {statistics.map(({ id, label, percentage }) => (
@@ -32,7 +32,7 @@ export const Statistics = ({ title, statistics }) => {
 };
 
 Statistics.propTypes = {
-  text: PropTypes.string,
+  title: PropTypes.string,
   statistics: PropTypes.arrayOf(
     PropTypes.exact({
       id: PropTypes.string.isRequired,
